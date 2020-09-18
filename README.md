@@ -12,7 +12,7 @@ I'm sotware engineer who is interested in Cloud and Devops in the next 6 month I
 ## Stepping out the door
 
 - [ ] ☁️ 1 > [Day one](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
+- [ ] ☁️ 2 > [Day two](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
