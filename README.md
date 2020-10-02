@@ -13,9 +13,9 @@ I'm sotware engineer who is interested in Cloud and Devops in the next 6 month I
 
 - [ ] ☁️ 1 > [Day one](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [Day two](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [](Journey/005/Readme.md)
+- [ ] ☁️ 3 > [Day three](Journey/003/Readme.md)
+- [ ] ☁️ 4 > [Day four](Journey/004/Readme.md)
+- [ ] ☁️ 5 > [Day five](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
